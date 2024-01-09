@@ -11,29 +11,33 @@ Ein geeignetes Projekt für diese LP3 ist ein Trainingsplangenerator?
 ✍️ Heute habe ich... (50-100 Wörter)
 
 16.1 und 23.1.2024
-- [ ] Herausfinden was für Trainigsaufteilungen in Verschiedenen Ambitionen gebraucht werden
-- [ ] Herausfinden wie sich das Ziel auf Trainingsmenge und Intensität auswirkt.
+- [ ] Namen, Alter und Geschlechtseingabe erstellen
+- [ ] Herausfinden wie sich das Ziel auf Trainingsmenge und Intensität auswirkt/ Herausfinden was für Trainigsaufteilungen in Verschiedenen Ambitionen gebraucht werden
 - [ ] Eine Zielauswahl definieren und diese Implementieren
 - [ ] Eine Intensitätsauswahl festlegen und diese Implementieren
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+1	Man kann Namen eingeben / Leandro / Was ist ihr alter?
+2 Man kann sein Alter eingeben / 16 / Was ist ihr Geschlecht
+3 Man kann ein Ziel auswählen / fitter werden / nächste Auswahl
+4 Man kann eine Intensität des Trainings auswählen/ intensiv / nächste Auswahl
+			
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 23.1.2024
 - [ ] Eine Ausfandsauswahl definieren und einfügen
-[ ] ...
+- [ ] Verschiedene Trainingsmethoden einfügen
+- [ ] Wochenzuteilung erstellen
+- [ ] Ergebnistest implementieren
 
-[ ] Achtes AP
+
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-...				
-8				
+5	Man kann die Aufwandsauswahl abgeben / 10 / Trainingsplan
+6 Gib deine alte FTP an / 231 / Watt pro Kilo
+7 Gib deine neue FTP an / 254 / Watt pro Kilo Fortschritt in Prozent
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
